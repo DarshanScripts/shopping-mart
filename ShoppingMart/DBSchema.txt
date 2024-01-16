@@ -1,0 +1,24 @@
+CREATE TABLE Item
+(
+	itemId INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	itemName VARCHAR (150), 
+	itemPrice DECIMAL(6,2), 
+	stockInHand INTEGER, 
+	itemImagePath VARCHAR(255), 
+	createdDate DATETIME
+);
+
+
+CREATE TABLE Customer
+(
+	cId INT PRIMARY KEY AUTO_INCREMENT, 
+	cName VARCHAR(50) NOT NULL,
+	gender CHAR(1) NOT NULL,
+	mobile CHAR(10) NOT NULL,
+	email VARCHAR(50) NOT NULL,
+	itemPurchased INT,
+	itemPrice DECIMAL(6,2),
+	state VARCHAR(27),
+	OrderDateTime DATETIME,
+	FOREIGN KEY (itemPurchased) REFERENCES Item(itemId)
+);

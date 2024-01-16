@@ -1,0 +1,9 @@
+C1101, Vrushali Gandhi, F, 7878675645, vrushali@hotmail.com, Prestige Delight, 1240, GJ, 2021-11-29 05:50:55
+C1234, Naeem Saiyed, M, 9089780990, naeem@gmail.com, Drones with Camera, 7830, UP, 2021-12-30 12:01:24
+C1101, Vrushali Gandhi, F, 7878675645, vrushali@hotmail.com, LED Digital Alarm Clock, 590, GJ, 2021-11-29 05:55:00
+C5445, Anil Parekh, M, 6756455453, anil210@yahoo.com, LED Digital Alarm Clock, 590, RJ, 2019-12-11 04:25:20
+C5445, Anil Parekh, M, 6756455453, anil210@yahoo.com, Bajaj Food Processor, 6710, RJ, 2022-02-22 04:45:45
+C6789, Vrunda Patel, F, 9423567890, vru@gmail.com, Black Dial Digital Unisex Watch, 1699, MP, 2022-02-22 04:50:50
+C5445, Anil Parekh, M, 6756455453, anil210@yahoo.com, Hyundai Mixer Grinder, 3500, RJ, 2022-01-12 02:24:25
+C3446, Chetna Patel, F, 7867565453, chetna0@yahoo.com, Bajaj Food Processor, 6710, HP, 2021-03-22 07:46:44
+C1432, Oomar Siyal, M, 9089789878, umar@gmail.com, HP Laptop, 70000, MH, 2022-03-03 09:20:13
